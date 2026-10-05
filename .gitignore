@@ -1,0 +1,8 @@
+# Zola
+public/
+.zola/
+
+# editor/sistema
+.DS_Store
+*.swp
+*~
